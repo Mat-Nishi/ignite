@@ -1,0 +1,24 @@
+.post{
+    margin: 3rem;
+}
+
+.profileImg{
+    box-sizing: initial;
+    width: 3rem;
+    aspect-ratio: 1;
+    border-radius: 8px;
+    /* margin-top: -2rem; */
+    border: 2px solid var(--gray8);
+    outline: 2px solid var(--green);
+}
+
+.author{
+    display: flex;
+    gap: 8px;
+}
+
+.authorInfo{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
