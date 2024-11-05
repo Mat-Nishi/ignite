@@ -24,7 +24,7 @@
     border-radius: 8px;
     /* margin-top: -2rem; */
     border: 2px solid var(--gray8);
-    outline: 2px solid var(--green);
+    outline: 2px solid var(--green5);
 }
 
 .profile strong{
@@ -51,8 +51,8 @@
     justify-content: center;
     width: 100%;
     background-color: transparent;
-    color: var(--green);
-    border: 1px solid var(--green);
+    color: var(--green5);
+    border: 1px solid var(--green5);
     border-radius: 8px;
     font-weight: bold;
     text-decoration: none;
@@ -63,6 +63,6 @@
 }
 
 .sidebar footer a:hover{
-    background-color: var(--green);
+    background-color: var(--green5);
     color: var(--white);
 }
